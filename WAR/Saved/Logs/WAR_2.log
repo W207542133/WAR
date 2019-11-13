@@ -1026,3 +1026,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.50.36:248][661]EditorErrors: Warning: Error saving '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
 [2019.11.13-00.50.39:416][763]LogSlate: Window 'Message Log' being destroyed
 [2019.11.13-00.50.39:449][763]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-00.52.37:479][ 93]Cmd: SELECT NONE
+[2019.11.13-00.52.39:861][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.53.28:208][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/Materials/M_Decos_Door" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Materials/M_Decos_Door.uasset" SILENT=true
+[2019.11.13-00.53.28:227][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/M_Decos_DoorEA7956F542293F54CE15DF973FA0C438.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Materials/M_Decos_Door.uasset'
+[2019.11.13-00.53.28:285][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.uasset" SILENT=true
+[2019.11.13-00.53.28:303][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/SM_Exo_Decos_Door018508745745F8F235DC8E59BAFB9BC29C.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.uasset'
+[2019.11.13-00.53.28:341][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02.uasset" SILENT=true
+[2019.11.13-00.53.28:360][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/SM_Exo_Decos_Door028A34B35C4A43874182A85F9F8D81C10D.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02.uasset'
+[2019.11.13-00.53.28:401][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.uasset" SILENT=true
+[2019.11.13-00.53.28:416][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/SM_Exo_Decos_Door03ED35518740288C086827288416B868B5.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.uasset'
+[2019.11.13-00.53.28:457][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04.uasset" SILENT=true
+[2019.11.13-00.53.28:475][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/SM_Exo_Decos_Door047689D57449E9E7B2B78138A3D50374E6.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04.uasset'
+[2019.11.13-00.53.28:500][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/Textures/T_Decos_Door_D" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_D.uasset" SILENT=true
+[2019.11.13-00.53.28:539][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/T_Decos_Door_DF25F7FB849E1CE610C5328A6CA27E5E9.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_D.uasset'
+[2019.11.13-00.53.28:559][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/Textures/T_Decos_Door_M" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_M.uasset" SILENT=true
+[2019.11.13-00.53.28:577][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/T_Decos_Door_M6090A50C4AF41DD58A4EC6BAD4C6BC66.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_M.uasset'
+[2019.11.13-00.53.28:639][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco02/Textures/T_Decos_Door_N" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_N.uasset" SILENT=true
+[2019.11.13-00.53.28:673][744]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/T_Decos_Door_NF7EB65AC4DC1B27F687417B9BBD076AC.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco02/Textures/T_Decos_Door_N.uasset'
+[2019.11.13-00.53.29:103][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.13-00.53.29:128][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.11.13-00.53.29:158][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.13-00.53.29:180][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.13-00.53.29:202][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.13-00.53.29:225][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.13-00.53.29:247][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.13-00.53.29:272][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.13-00.53.29:301][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.13-00.53.29:324][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
