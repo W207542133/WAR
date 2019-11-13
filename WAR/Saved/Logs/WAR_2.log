@@ -1054,3 +1054,88 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.53.29:272][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2019.11.13-00.53.29:301][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
 [2019.11.13-00.53.29:324][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.13-00.54.29:751][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.54.30:177][723]LogActorFactory: Actor Factory created SM_Exo_Decos_Door03
+[2019.11.13-00.54.31:077][754]LogActorFactory: Actor Factory created SM_Exo_Decos_Door03
+[2019.11.13-00.54.38:192][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.54.51:884][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.55.07:081][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.55.07:220][ 12]MapCheck: New page: Map Check
+[2019.11.13-00.55.07:242][ 12]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.13-00.55.07:242][ 12]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.13-00.55.07:494][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.13-00.55.07:527][ 12]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-00.55.07:552][ 12]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-00.55.12:702][ 12]TextureStreamingBuild: Display: Compiling optional shaders took 5.202 seconds.
+[2019.11.13-00.55.12:811][ 12]LogLevel: Display: Export Material TexCoord Scales took 0.109 seconds.
+[2019.11.13-00.55.12:836][ 12]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2019.11.13-00.55.12:860][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.13-00.55.12:908][ 12]LightingResults: New page: Lighting Build - Nov 12, 2019, 12:55:12 PM
+[2019.11.13-00.55.13:103][ 12]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.13-00.55.13:251][ 12]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.13-00.55.13:355][ 12]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.13-00.55.15:662][ 12]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.13-00.55.15:662][ 12]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14192
+[2019.11.13-00.55.15:867][ 12]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.11.13-00.55.15:871][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.13-00.55.15:871][ 12]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.13-00.55.15:871][ 12]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.13-00.55.15:871][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.13-00.55.15:871][ 12]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.13-00.55.16:179][ 12]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.13-00.55.16:179][ 12]MapCheck: New page: WAR_hill - Nov 12, 2019, 12:55:16 PM
+[2019.11.13-00.55.16:202][ 12]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.11.13-00.55.16:229][ 12]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 49.585ms to complete.
+[2019.11.13-00.55.16:271][ 12]LogEditorBuildUtils: Build time 0:09
+[2019.11.13-00.55.16:291][ 12]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_175, compiling. Is special engine material.
+[2019.11.13-00.55.16:356][ 12]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_175, compiling. Is special engine material.
+[2019.11.13-00.55.20:192][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.13-00.55.35:971][492]Job is a success!
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.210s
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 4.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:          1: 8.2% covering 13.9% of volume
+[2019.11.13-00.55.36:332][493]LogVolumetricLightmapImport:          2: 90.9% covering 2.4% of volume
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.11.13-00.55.36:559][493]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.11.13-00.55.36:921][493]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X64)
+[2019.11.13-00.55.36:921][493]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2019.11.13-00.55.36:921][493]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2019.11.13-00.55.36:921][493]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2019.11.13-00.55.40:547][493]Lightmass on SW-WLC124-09: 14.8 sec total, 190 ms importing, 78 ms setup, 1.27 sec photons, 13.3 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 1:33 min total, 9.53 sec processing.
+[2019.11.13-00.55.40:563][493]LogStaticLightingSystem: WAR_hill_BuiltData storing lightmap data for 17 meshes in 4 LightmapResourceClusters (4.3 Meshes per cluster).
+[2019.11.13-00.55.40:619][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.13-00.55.40:626][493]LogStaticLightingSystem: Illumination: 27.6 sec (151 ms encoding lightmaps, 391 ms encoding shadowmaps)
+[2019.11.13-00.55.40:627][493]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 8 textures
+[2019.11.13-00.55.40:627][493]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.11.13-00.55.40:852][493]DumpUnbuiltLightIteractions
+[2019.11.13-00.55.40:852][493]Lights with unbuilt interactions: 0
+[2019.11.13-00.55.40:852][493]
+[2019.11.13-00.55.40:852][493]Primitives with unbuilt interactions: 0
+[2019.11.13-00.55.40:936][494]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.13-00.55.40:936][494]MapCheck: New page: WAR_hill - Nov 12, 2019, 12:55:40 PM
+[2019.11.13-00.55.40:937][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.837ms to complete.
+[2019.11.13-00.55.49:828][810]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-00.55.49:857][810]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-00.56.01:762][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.56.05:062][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Decos_Door03)
+[2019.11.13-00.56.05:906][393]Cmd: DELETE
+[2019.11.13-00.56.05:906][393]Cmd: ACTOR DELETE
+[2019.11.13-00.56.05:908][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-00.56.05:935][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.11.13-00.56.05:935][393]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.13-00.56.10:337][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-00.56.23:203][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-00.56.23:226][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.11.13-00.56.23:331][838]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.13-00.56.23:465][838]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillC044EAD54B07799B1A8C94AB80E62368.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.13-00.56.23:500][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill_BuiltData" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset" SILENT=true
+[2019.11.13-00.56.23:570][838]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_BuiltData67EA8E9D4D990E22D7FBC1813B545ED3.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset'
