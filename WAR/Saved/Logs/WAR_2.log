@@ -1139,3 +1139,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-00.56.23:465][838]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillC044EAD54B07799B1A8C94AB80E62368.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
 [2019.11.13-00.56.23:500][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill_BuiltData" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset" SILENT=true
 [2019.11.13-00.56.23:570][838]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_BuiltData67EA8E9D4D990E22D7FBC1813B545ED3.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset'
+[2019.11.13-01.28.25:210][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.28.43:088][490]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.28.54:703][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.29.13:714][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.29.23:220][851]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.29.25:658][946]Cmd: DELETE
+[2019.11.13-01.29.25:658][946]Cmd: ACTOR DELETE
+[2019.11.13-01.29.25:660][946]LogEditorActor: Deleted Actor: Brush
+[2019.11.13-01.29.25:687][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.13-01.29.25:688][946]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.11.13-01.29.28:301][ 46]Cmd: DUPLICATE
+[2019.11.13-01.29.28:301][ 46]Cmd: ACTOR DUPLICATE
+[2019.11.13-01.29.35:418][307]Cmd: DELETE
+[2019.11.13-01.29.35:418][307]Cmd: ACTOR DELETE
+[2019.11.13-01.29.35:420][307]LogEditorActor: Deleted Actor: Brush
+[2019.11.13-01.29.35:444][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.13-01.29.35:484][307]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.11.13-01.29.38:566][426]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.29.40:865][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.30.02:774][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.30.22:571][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.31.03:653][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.31.39:961][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.31.41:074][784]Cmd: CLEANBSPMATERIALS
+[2019.11.13-01.31.41:074][784]LogEditorServer: Cleared /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush2_6:/Game/Seaside_Town/Materials/Wood/MI_Wood_Inst1.MI_Wood_Inst1
+[2019.11.13-01.31.41:075][784]LogEditorServer: Cleared /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush2_6:/Game/Seaside_Town/Materials/Wood/MI_Wood_Inst1.MI_Wood_Inst1
+[2019.11.13-01.31.46:530][784]LogSlate: Window 'Message' being destroyed
+[2019.11.13-01.32.02:746][335]LogSlate: Window 'Select Path' being destroyed
+[2019.11.13-01.32.02:843][335]LogStaticMesh: Building static mesh rim...
+[2019.11.13-01.32.02:865][335]LogStaticMesh: Built static mesh [0.02s] /Game/WAR/rim.rim
+[2019.11.13-01.32.02:868][335]LogActorFactory: Actor Factory created rim
+[2019.11.13-01.32.02:900][335]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush2_6' is marked pending kill and cannot be converted
+[2019.11.13-01.32.02:900][335]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2019.11.13-01.32.02:900][335]EditorErrors: New page: Actor Reattachment
+[2019.11.13-01.32.02:945][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.13-01.32.05:911][432]LogActorFactory: Actor Factory created rim
+[2019.11.13-01.32.07:073][475]LogActorFactory: Actor Factory created rim
+[2019.11.13-01.32.09:761][576]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.13-01.32.10:617][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim)
+[2019.11.13-01.32.11:666][638]Cmd: DELETE
+[2019.11.13-01.32.11:666][638]Cmd: ACTOR DELETE
+[2019.11.13-01.32.11:668][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.13-01.32.11:693][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.11.13-01.32.11:693][638]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.13-01.32.36:227][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.32.38:048][650]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.32.43:928][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.33.05:472][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.33.15:886][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.33.22:845][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.33.49:768][349]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.13-01.34.04:825][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.34.26:758][698]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2019.11.13-01.34.28:877][777]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.34.44:847][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.34.58:132][813]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.00:064][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.35.14:750][288]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.15:475][315]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.16:133][339]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.16:459][351]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.16:782][363]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.18:874][439]LogEditorViewport: Clicking Background
+[2019.11.13-01.35.20:482][494]Cmd: EDCALLBACK SURFPROPS
+[2019.11.13-01.35.21:687][541]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.35.25:749][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.36.01:258][998]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2019.11.13-01.36.06:434][184]Cmd: POLY SELECT ADJACENT WALLS
+[2019.11.13-01.36.12:108][394]Cmd: POLY SELECT MEMORY UNION
+[2019.11.13-01.36.18:704][638]Cmd: POLY SELECT MEMORY UNION
+[2019.11.13-01.36.22:173][766]Cmd: POLY SELECT ALL
+[2019.11.13-01.36.24:267][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.36.40:166][332]LogEditorViewport: Clicking on Actor (context menu): Brush (Cylinder Brush)
+[2019.11.13-01.36.40:452][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.37.04:695][128]LogSlate: Window 'Select Path' being destroyed
+[2019.11.13-01.37.04:729][128]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.37.04:747][128]LogStaticMesh: Building static mesh spock...
+[2019.11.13-01.37.04:762][128]LogStaticMesh: Built static mesh [0.01s] /Game/WAR/spock.spock
+[2019.11.13-01.37.04:764][128]LogActorFactory: Actor Factory created spock
+[2019.11.13-01.37.04:813][128]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush_8' is marked pending kill and cannot be converted
+[2019.11.13-01.37.04:813][128]EditorErrors: New page: Actor Reattachment
+[2019.11.13-01.37.04:845][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.13-01.37.06:890][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.37.07:165][166]LogActorFactory: Actor Factory created spock
+[2019.11.13-01.37.10:278][279]LogActorFactory: Actor Factory created spock
+[2019.11.13-01.37.15:359][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.37.20:158][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.37.39:790][392]Cmd: TRANSACTION UNDO
+[2019.11.13-01.37.39:790][392]LogEditorTransaction: Undo Move Actors
+[2019.11.13-01.37.40:600][421]Cmd: TRANSACTION UNDO
+[2019.11.13-01.37.40:600][421]LogEditorTransaction: Undo Move Actors
+[2019.11.13-01.37.41:386][450]Cmd: TRANSACTION UNDO
+[2019.11.13-01.37.41:386][450]LogEditorTransaction: Undo Rotate Actors
+[2019.11.13-01.37.42:072][475]Cmd: TRANSACTION UNDO
+[2019.11.13-01.37.42:072][475]LogEditorTransaction: Undo Create Actors
+[2019.11.13-01.37.43:204][516]Cmd: TRANSACTION UNDO
+[2019.11.13-01.37.43:205][516]LogEditorTransaction: Undo Convert Actors
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 0
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 1
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 2
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 3
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 4
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 5
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 6
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 7
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 8
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 9
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 10
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 11
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 12
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 13
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 14
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 15
+[2019.11.13-01.37.43:233][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 16
+[2019.11.13-01.37.43:234][516]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39, Buffer: 0, Buffer Size: 0, Element: 17
+[2019.11.13-01.37.43:234][516]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39' invalid (96 verts, 0 indices).
+[2019.11.13-01.37.43:234][516]LogPhysics: Warning: Attempt to build physics data for /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.ModelComponent_39.BodySetup_0 when we are unable to.
+[2019.11.13-01.37.46:576][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.38.00:711][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.38.14:868][649]LogSlate: Window 'Select Path' being destroyed
+[2019.11.13-01.38.14:902][649]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.38.14:918][649]LogStaticMesh: Building static mesh spock1...
+[2019.11.13-01.38.14:931][649]LogStaticMesh: Built static mesh [0.01s] /Game/WAR/spock1.spock1
+[2019.11.13-01.38.14:933][649]LogActorFactory: Actor Factory created spock1
+[2019.11.13-01.38.14:962][649]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush_8' is marked pending kill and cannot be converted
+[2019.11.13-01.38.14:962][649]EditorErrors: New page: Actor Reattachment
+[2019.11.13-01.38.14:989][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.11.13-01.38.15:915][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.38.18:256][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.13-01.38.19:683][736]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.13-01.38.19:737][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.13-01.38.21:708][770]LogActorFactory: Actor Factory created spock1
+[2019.11.13-01.38.24:174][862]LogActorFactory: Actor Factory created spock1
+[2019.11.13-01.38.26:907][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.38.53:884][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.39.08:819][496]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.13-01.39.27:923][107]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.13-01.39.30:381][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.40.03:727][356]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.13-01.40.06:494][451]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.13-01.40.20:201][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim2)
+[2019.11.13-01.40.21:306][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.40.33:050][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.40.51:194][821]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.40.53:752][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.41.12:550][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.41.51:932][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.42.28:029][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.42.28:106][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.11.13-01.42.28:106][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.13-01.42.28:421][475]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto3F60DEF6F4DA471478D430F9854CD62A0.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto3.umap'
+[2019.11.13-01.42.28:437][475]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 0.358
+[2019.11.13-01.42.28:437][475]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.358
+[2019.11.13-01.42.28:438][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WAR/rim] ([1] browsable assets)...
+[2019.11.13-01.42.28:469][475]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WAR/rim.rim]
+[2019.11.13-01.42.28:469][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAR/rim]
+[2019.11.13-01.42.28:469][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/rim" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/rim_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.13-01.42.28:485][475]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/rim_Auto34F65E42B44E35B0321B00081491B776C.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/rim_Auto3.uasset'
+[2019.11.13-01.42.28:494][475]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WAR/spock1] ([1] browsable assets)...
+[2019.11.13-01.42.28:524][475]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WAR/spock1.spock1]
+[2019.11.13-01.42.28:524][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAR/spock1]
+[2019.11.13-01.42.28:524][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/spock1" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/spock1_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.13-01.42.28:537][475]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/spock1_Auto367492EC346F14DB9B7266B8434987613.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/spock1_Auto3.uasset'
+[2019.11.13-01.42.28:548][475]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.11.13-01.42.36:344][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim2)
+[2019.11.13-01.43.25:017][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.43.25:163][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-01.43.25:190][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.11.13-01.43.25:400][496]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillF05D917446993DB6F481BDA227AA5AAB.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.13-01.43.25:437][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill_BuiltData" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset" SILENT=true
+[2019.11.13-01.43.25:508][496]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_BuiltData23EBA4064A86C8474E7D5891FF68AD25.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset'
