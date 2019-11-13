@@ -1310,3 +1310,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-01.43.25:400][496]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillF05D917446993DB6F481BDA227AA5AAB.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
 [2019.11.13-01.43.25:437][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill_BuiltData" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset" SILENT=true
 [2019.11.13-01.43.25:508][496]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_BuiltData23EBA4064A86C8474E7D5891FF68AD25.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset'
+[2019.11.13-01.44.38:658][929]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.44.51:203][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.45.14:913][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.45.20:222][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim2)
+[2019.11.13-01.45.28:116][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.46.16:974][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.46.31:435][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.13-01.46.43:031][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.46.51:895][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.46.53:906][735]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.13-01.46.57:782][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.47.37:564][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.47.58:126][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.48.14:288][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.48.18:031][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.48.25:122][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.48.40:466][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.49.13:118][573]LogSlate: Window 'Select Path' being destroyed
+[2019.11.13-01.49.13:211][573]LogStaticMesh: Building static mesh barrel...
+[2019.11.13-01.49.13:293][573]LogStaticMesh: Built static mesh [0.08s] /Game/WAR/barrel.barrel
+[2019.11.13-01.49.13:314][573]LogActorFactory: Actor Factory created barrel
+[2019.11.13-01.49.13:345][573]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush_11' is marked pending kill and cannot be converted
+[2019.11.13-01.49.13:345][573]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.CylinderBrush2_13' is marked pending kill and cannot be converted
+[2019.11.13-01.49.13:345][573]LogEditor: Error: Actor 'Brush /Game/WAR/WAR_hill.WAR_hill:PersistentLevel.SphereBrush' is marked pending kill and cannot be converted
+[2019.11.13-01.49.13:345][573]EditorErrors: New page: Actor Reattachment
+[2019.11.13-01.49.13:371][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.11.13-01.49.54:790][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel)
+[2019.11.13-01.49.54:824][897]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.11.13-01.49.57:145][976]Cmd: TRANSACTION UNDO
+[2019.11.13-01.49.57:145][976]LogEditorTransaction: Undo Clicking on Components
+[2019.11.13-01.49.57:789][996]Cmd: TRANSACTION UNDO
+[2019.11.13-01.49.57:789][996]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.13-01.49.58:497][ 19]Cmd: TRANSACTION UNDO
+[2019.11.13-01.49.58:497][ 19]LogEditorTransaction: Undo Move Actors
+[2019.11.13-01.50.01:753][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.50.09:176][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.50.23:217][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim3)
+[2019.11.13-01.50.59:853][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel)
+[2019.11.13-01.51.00:048][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel)
+[2019.11.13-01.51.24:118][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.51.31:031][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.52.37:392][819]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.13-01.53.14:257][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-01.53.47:862][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.13-01.53.47:863][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.13-01.53.48:203][ 10]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto45CE91E424CB1232F8A8855A9A8F6FC4D.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto4.umap'
+[2019.11.13-01.53.48:224][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 0.387
+[2019.11.13-01.53.48:224][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.387
+[2019.11.13-01.53.48:225][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WAR/barrel] ([1] browsable assets)...
+[2019.11.13-01.53.48:253][ 10]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/WAR/barrel.barrel]
+[2019.11.13-01.53.48:253][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/WAR/barrel]
+[2019.11.13-01.53.48:253][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/barrel" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/barrel_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.11.13-01.53.48:270][ 10]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/barrel_Auto446427E9E4A68FD34DD8E9CA8C4924402.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/barrel_Auto4.uasset'
+[2019.11.13-01.53.48:277][ 10]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.11.13-01.54.35:821][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-01.54.35:848][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.13-01.54.36:144][539]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill006EBCD84A924B3570136D89DC1AAF63.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.13-01.54.36:225][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill_BuiltData" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset" SILENT=true
+[2019.11.13-01.54.36:305][539]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_BuiltDataA0BF458A416B2694F4709A972EAF902B.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill_BuiltData.uasset'
