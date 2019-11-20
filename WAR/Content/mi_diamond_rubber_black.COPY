@@ -1,0 +1,27 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="mi_diamond_rubber_black"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/NecrosUtilityMatPack/materials/floor/masters/m_diamond_pattern.m_diamond_pattern"'
+   ScalarParameterValues(0)=(ParameterName="GrimeHi",ParameterInfo=(Name="GrimeHi"),ParameterValue=1.000000,ExpressionGUID=293DE77546ADFBBAA0008E925303D07D)
+   ScalarParameterValues(1)=(ParameterName="GrimeLo",ParameterInfo=(Name="GrimeLo"),ExpressionGUID=C43521374086CBFA84E3DD82E4666327)
+   ScalarParameterValues(2)=(ParameterName="GrimeSize",ParameterInfo=(Name="GrimeSize"),ParameterValue=0.020904,ExpressionGUID=9C72A8BB45BC4BE1DB86688E66B78B65)
+   ScalarParameterValues(3)=(ParameterName="GrimeSize2",ParameterInfo=(Name="GrimeSize2"),ParameterValue=0.100000,ExpressionGUID=B71A6CEB4180B74492934D81EF86801D)
+   ScalarParameterValues(4)=(ParameterName="Metalness",ParameterInfo=(Name="Metalness"),ParameterValue=-2.000000,ExpressionGUID=1A2BF96141120E2210D993A497E4E223)
+   ScalarParameterValues(5)=(ParameterName="Shine",ParameterInfo=(Name="Shine"),ParameterValue=2.000000,ExpressionGUID=73D20B374CFE0CD533B448A0C6D7C83A)
+   ScalarParameterValues(6)=(ParameterName="Smoothness",ParameterInfo=(Name="Smoothness"),ExpressionGUID=9088B0F243378DBCD7374B89ED5A4523)
+   ScalarParameterValues(7)=(ParameterName="USize",ParameterInfo=(Name="USize"),ParameterValue=2.000000,ExpressionGUID=3C82C29545BD184E77EDAF9C83CA511C)
+   ScalarParameterValues(8)=(ParameterName="VSize",ParameterInfo=(Name="VSize"),ParameterValue=4.000000,ExpressionGUID=50BA9F05408D1DA4757797B7FCA8C296)
+   ScalarParameterValues(9)=(ParameterName="RefractionDepthBias",ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterName="GroovestTint",ParameterInfo=(Name="GroovestTint"),ParameterValue=(R=0.100000,G=0.018414,B=0.011722,A=1.000000),ExpressionGUID=4367C2B14739568B04B1468E4394D6A8)
+   VectorParameterValues(1)=(ParameterName="TopTint",ParameterInfo=(Name="TopTint"),ExpressionGUID=5AC8473545DE4299D2669980984CF22F)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=E100AD2E44CFC9AC10DCBF9A4E794287
+   ReferencedTextureGuids(1)=0D89FA5D4BDD6D7A2F7B5394E0C7AE2B
+   ReferencedTextureGuids(2)=EDB014DF46F7CF34902CE09723CC8A90
+   ReferencedTextureGuids(3)=A1D71DCD4E8BA0A3058D84BDBF388835
+   ReferencedTextureGuids(4)=63BA275748B9D5B2346F1384197D9A78
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=B789FDF544D92F17641F9990BDB23B86
+End Object

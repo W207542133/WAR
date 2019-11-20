@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="mi_tarp_gray"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/NecrosUtilityMatPack/materials/misc/masters/m_tarp.m_tarp"'
+   ScalarParameterValues(0)=(ParameterName="FlattenNormal",ParameterInfo=(Name="FlattenNormal"),ExpressionGUID=EF575DF348D36E2BFA38A4B4196A0284)
+   ScalarParameterValues(1)=(ParameterName="Shine",ParameterInfo=(Name="Shine"),ParameterValue=2.000000,ExpressionGUID=BE77B0334E97EE5AC8D241BED73998D8)
+   ScalarParameterValues(2)=(ParameterName="Shine2",ParameterInfo=(Name="Shine2"),ParameterValue=4.954129,ExpressionGUID=48C5D04B4AE5791C09708F91D563AC72)
+   ScalarParameterValues(3)=(ParameterName="StainHi",ParameterInfo=(Name="StainHi"),ParameterValue=5.000000,ExpressionGUID=98DF23CC40434E4A24D419813D7A9831)
+   ScalarParameterValues(4)=(ParameterName="StainLo",ParameterInfo=(Name="StainLo"),ExpressionGUID=8D780CDB4F4E7535765CF0B7FE5487EF)
+   ScalarParameterValues(5)=(ParameterName="StainUV",ParameterInfo=(Name="StainUV"),ParameterValue=0.917431,ExpressionGUID=B6FC6C6D4B45A14870AAAC8325A129F8)
+   ScalarParameterValues(6)=(ParameterName="RefractionDepthBias",ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterName="StainTint",ParameterInfo=(Name="StainTint"),ParameterValue=(R=0.600000,G=0.000000,B=0.000000,A=0.000000),ExpressionGUID=12AC0E084EEF08CF8C6BC18B0EF353B5)
+   VectorParameterValues(1)=(ParameterName="Tint",ParameterInfo=(Name="Tint"),ParameterValue=(R=0.470636,G=0.475163,B=0.625000,A=0.000000),ExpressionGUID=C6056EA847C5133D55EDDFA5182FF13B)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=9BDD103740F0DA15BEAAC9AC7C7BACC2
+   ReferencedTextureGuids(1)=EDB014DF46F7CF34902CE09723CC8A90
+   ReferencedTextureGuids(2)=C664C1F04CB1B333E2117F9BAC3AA771
+   ReferencedTextureGuids(3)=5AEAC31C497FBF1608C6C09292A8D742
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=FBF5CE244067C8EDF0CD17842A7BA80A
+End Object
