@@ -918,3 +918,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-00.36.02:732][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2019.11.22-00.36.02:880][857]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
 [2019.11.22-00.36.03:172][857]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillB042079D462A0DB1D0E79287AD432854.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.22-00.38.23:984][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.38.43:158][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.38.47:590][105]Cmd: TRANSACTION UNDO
+[2019.11.22-00.38.47:590][105]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-00.38.47:642][105]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.38.48:579][136]Cmd: TRANSACTION UNDO
+[2019.11.22-00.38.48:579][136]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-00.38.48:648][136]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.41.59:761][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-00.43.38:512][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.43.57:185][366]Cmd: TRANSACTION UNDO
+[2019.11.22-00.43.57:185][366]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-00.43.57:310][366]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.45.21:565][141]Cmd: TRANSACTION UNDO
+[2019.11.22-00.45.21:565][141]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-00.45.21:615][141]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.45.22:478][169]Cmd: TRANSACTION UNDO
+[2019.11.22-00.45.22:478][169]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-00.45.22:577][169]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.45.23:384][193]Cmd: TRANSACTION UNDO
+[2019.11.22-00.45.23:384][193]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-00.45.23:491][193]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.45.34:588][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-00.45.55:532][245]Cmd: TRANSACTION UNDO
+[2019.11.22-00.45.55:532][245]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-00.45.55:667][245]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.47.54:681][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.48.12:584][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.48.12:644][763]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-00.48.12:653][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-00.48.12:654][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-00.48.12:654][763]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 12:48:12 PM)
+[2019.11.22-00.48.12:654][763]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-00.48.12:687][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032609s)
+[2019.11.22-00.48.12:687][763]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-00.48.12:687][763]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.11.22-00.48.12:687][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.033518s)
+[2019.11.22-00.48.12:716][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.22-00.48.12:718][763]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-00.48.12:745][763]LogInit: FAudioDevice initialized.
+[2019.11.22-00.48.12:775][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-00.48.12:778][763]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-18.48.12
+[2019.11.22-00.48.12:779][763]LogWorld: Bringing up level for play took: 0.003640
+[2019.11.22-00.48.12:793][763]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.547
+[2019.11.22-00.48.12:793][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-00.48.54:247][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-00.48.54:247][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-00.48.54:302][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-00.48.54:302][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-00.48.54:329][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-00.48.54:333][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.11.22-00.48.54:369][470]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.11.22-00.49.00:355][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-00.52.14:407][159]Cmd: TRANSACTION UNDO
+[2019.11.22-00.52.14:407][159]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-00.52.14:564][159]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.53.12:594][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.53.32:591][809]Cmd: TRANSACTION UNDO
+[2019.11.22-00.53.32:591][809]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-00.53.32:647][809]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.53.37:041][954]Cmd: TRANSACTION UNDO
+[2019.11.22-00.53.37:041][954]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-00.54.10:426][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-00.54.15:045][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.57.34:810][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-00.58.39:475][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-00.58.39:552][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.22-00.58.39:553][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.22-00.58.39:711][882]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-00.58.39:972][882]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto242149F2C49D1EFF075FFDD932E21A9F8.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto2.umap'
+[2019.11.22-00.58.40:000][882]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 0.472
+[2019.11.22-00.58.40:000][882]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.472
+[2019.11.22-01.00.52:205][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-01.00.54:589][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-01.03.39:676][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-01.03.39:800][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.22-01.03.39:828][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.22-01.03.39:944][857]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-01.03.40:218][857]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill06039D484F654C6388C49A87D5456018.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
