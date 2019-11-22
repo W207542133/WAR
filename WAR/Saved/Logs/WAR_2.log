@@ -997,3 +997,768 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-01.03.39:828][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
 [2019.11.22-01.03.39:944][857]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
 [2019.11.22-01.03.40:218][857]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill06039D484F654C6388C49A87D5456018.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.22-01.13.35:731][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-01.23.35:824][587]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-01.23.35:900][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.22-01.23.35:901][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.22-01.23.36:018][587]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-01.23.36:237][587]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto3F925437641807019A61C72806A40932F.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto3.umap'
+[2019.11.22-01.23.36:250][587]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 0.375
+[2019.11.22-01.23.36:250][587]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2019.11.22-02.20.10:348][509]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2019.11.22-02.20.11:460][546]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2019.11.22-02.20.11:610][551]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2019.11.22-02.20.12:031][565]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 9
+[2019.11.22-02.20.12:241][572]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.11.22-02.20.12:392][577]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 8
+[2019.11.22-02.20.12:542][582]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.11.22-02.20.12:722][588]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2019.11.22-02.20.12:752][589]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 7
+[2019.11.22-02.29.12:577][578]Cmd: TRANSACTION UNDO
+[2019.11.22-02.29.12:577][578]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-02.29.14:601][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.29.27:484][ 75]Cmd: TRANSACTION UNDO
+[2019.11.22-02.29.27:484][ 75]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.29.27:541][ 75]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.29.28:996][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.30.26:619][994]Cmd: TRANSACTION UNDO
+[2019.11.22-02.30.26:619][994]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.30.26:671][994]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.31.49:100][684]Cmd: TRANSACTION UNDO
+[2019.11.22-02.31.49:100][684]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.31.49:151][684]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.32.03:092][143]Cmd: TRANSACTION UNDO
+[2019.11.22-02.32.03:092][143]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.32.03:149][143]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.32.27:568][957]Cmd: TRANSACTION UNDO
+[2019.11.22-02.32.27:569][957]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.32.27:619][957]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.33.01:912][ 99]Cmd: TRANSACTION UNDO
+[2019.11.22-02.33.01:912][ 99]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.33.01:963][ 99]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.33.36:039][237]Cmd: TRANSACTION UNDO
+[2019.11.22-02.33.36:039][237]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.33.36:091][237]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.33.45:531][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.34.44:943][471]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.35.50:029][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.35.50:107][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.22-02.35.50:108][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.22-02.35.50:219][574]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.35.50:521][574]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto43F20C8B346703F11B41B77BF7982DC07.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto4.umap'
+[2019.11.22-02.35.50:533][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 0.451
+[2019.11.22-02.35.50:533][574]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.451
+[2019.11.22-02.36.52:988][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.38.02:889][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.38.07:201][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.38.34:796][873]Cmd: TRANSACTION UNDO
+[2019.11.22-02.38.34:796][873]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.38.34:850][873]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.38.35:697][899]Cmd: TRANSACTION UNDO
+[2019.11.22-02.38.35:697][899]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.38.35:774][899]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.38.39:124][997]Cmd: TRANSACTION UNDO
+[2019.11.22-02.38.39:124][997]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.38.50:100][352]Cmd: TRANSACTION UNDO
+[2019.11.22-02.38.50:100][352]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.38.50:152][352]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.38.55:245][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.39.02:016][737]Cmd: TRANSACTION UNDO
+[2019.11.22-02.39.02:016][737]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.39.02:067][737]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.39.02:697][757]Cmd: TRANSACTION UNDO
+[2019.11.22-02.39.02:697][757]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.39.02:779][757]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.39.08:734][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.39.29:496][626]Cmd: TRANSACTION UNDO
+[2019.11.22-02.39.29:496][626]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.39.29:558][626]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.39.43:156][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.39.43:282][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.22-02.39.43:306][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.22-02.39.43:402][ 64]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.39.43:680][ 64]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill73F911E34665C8E7303845A891AEF9B5.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.22-02.39.45:713][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.41.00:730][699]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.41.00:738][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.41.00:738][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.41.00:738][699]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:41:00 PM)
+[2019.11.22-02.41.00:738][699]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.41.00:764][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026183s)
+[2019.11.22-02.41.00:765][699]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.41.00:765][699]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2019.11.22-02.41.00:765][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.026963s)
+[2019.11.22-02.41.00:788][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.22-02.41.00:790][699]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.41.00:815][699]LogInit: FAudioDevice initialized.
+[2019.11.22-02.41.00:845][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.41.00:848][699]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.41.00
+[2019.11.22-02.41.00:848][699]LogWorld: Bringing up level for play took: 0.002182
+[2019.11.22-02.41.00:862][699]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.412
+[2019.11.22-02.41.00:862][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.42.11:142][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.42.11:142][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.42.11:196][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.42.11:197][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.42.11:224][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.42.11:227][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.22-02.42.11:264][576]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.22-02.42.20:188][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.42.24:300][ 17]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.42.29:158][168]Cmd: TRANSACTION UNDO
+[2019.11.22-02.42.29:158][168]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.42.29:212][168]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.42.30:459][205]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.42.31:408][232]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.42.31:779][243]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.42.34:103][314]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.42.36:250][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.42.51:823][859]Cmd: TRANSACTION UNDO
+[2019.11.22-02.42.51:823][859]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-02.42.51:876][859]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.43.21:631][824]Cmd: TRANSACTION UNDO
+[2019.11.22-02.43.21:631][824]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-02.43.21:689][824]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.43.55:643][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.44.26:720][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.46.15:000][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.46.19:311][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.46.21:848][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.46.21:853][710]LogEditorViewport: Clicking Background
+[2019.11.22-02.46.27:718][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.46.27:801][936]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.46.27:810][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.46.27:810][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.46.27:811][936]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:46:27 PM)
+[2019.11.22-02.46.27:811][936]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.46.27:847][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035535s)
+[2019.11.22-02.46.27:847][936]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.46.27:847][936]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2019.11.22-02.46.27:847][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.036695s)
+[2019.11.22-02.46.27:871][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.22-02.46.27:873][936]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.46.27:901][936]LogInit: FAudioDevice initialized.
+[2019.11.22-02.46.27:928][936]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.46.27:931][936]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.46.27
+[2019.11.22-02.46.27:931][936]LogWorld: Bringing up level for play took: 0.002200
+[2019.11.22-02.46.27:944][936]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill -0.516
+[2019.11.22-02.46.27:945][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.47.10:841][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.47.10:841][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.47.10:894][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.47.10:894][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.47.10:925][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.47.10:928][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.22-02.47.10:965][687]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.22-02.47.15:626][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.47.21:487][ 38]Cmd: TRANSACTION UNDO
+[2019.11.22-02.47.21:487][ 38]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.47.21:537][ 38]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.47.26:703][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.47.33:809][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.47.38:962][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.47.40:660][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.47.46:287][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.47.49:758][965]Cmd: TRANSACTION UNDO
+[2019.11.22-02.47.49:758][965]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-02.47.49:809][965]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.47.51:563][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.47.57:158][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.48.02:695][432]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.22-02.48.04:347][499]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.04:780][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.48.18:028][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.21:867][154]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.30:942][483]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.34:729][632]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.38:630][765]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.45:835][  6]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.50:859][169]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.53:111][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.53:697][260]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.22-02.48.55:271][310]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.22-02.48.56:447][348]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.22-02.48.56:780][356]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.22-02.48.58:112][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.48.58:207][401]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.48.58:214][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.48.58:214][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.48.58:215][401]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:48:58 PM)
+[2019.11.22-02.48.58:215][401]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.48.58:244][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029415s)
+[2019.11.22-02.48.58:245][401]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.48.58:245][401]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2019.11.22-02.48.58:245][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.030342s)
+[2019.11.22-02.48.58:267][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.22-02.48.58:270][401]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.48.58:295][401]LogInit: FAudioDevice initialized.
+[2019.11.22-02.48.58:322][401]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.48.58:325][401]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.48.58
+[2019.11.22-02.48.58:325][401]LogWorld: Bringing up level for play took: 0.002256
+[2019.11.22-02.48.58:339][401]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill -0.126
+[2019.11.22-02.48.58:339][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.49.12:604][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.49.12:604][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.49.12:655][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.49.12:656][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.49.12:683][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.49.12:685][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.11.22-02.49.12:722][983]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.11.22-02.49.14:636][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.24:825][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.33:193][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.49.33:253][669]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.49.33:262][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.49.33:262][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.49.33:262][669]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:49:33 PM)
+[2019.11.22-02.49.33:262][669]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.49.33:294][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032194s)
+[2019.11.22-02.49.33:295][669]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.49.33:295][669]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2019.11.22-02.49.33:295][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.032952s)
+[2019.11.22-02.49.33:315][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.22-02.49.33:322][669]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.49.33:345][669]LogInit: FAudioDevice initialized.
+[2019.11.22-02.49.33:376][669]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.49.33:380][669]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.49.33
+[2019.11.22-02.49.33:380][669]LogWorld: Bringing up level for play took: 0.003838
+[2019.11.22-02.49.33:394][669]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.927
+[2019.11.22-02.49.33:394][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.49.57:357][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3846.253 Y=574.195 Z=1644.078] for [FirstPersonProjectile_C]
+[2019.11.22-02.49.57:571][664]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3845.504 Y=579.119 Z=1642.427] for [FirstPersonProjectile_C]
+[2019.11.22-02.49.57:810][674]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3835.513 Y=660.394 Z=1657.198] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.03:244][895]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3720.912 Y=741.129 Z=1585.443] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.03:446][903]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3720.706 Y=750.056 Z=1585.293] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.03:648][911]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3721.177 Y=760.874 Z=1585.640] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.03:850][919]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3720.380 Y=767.090 Z=1585.653] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.04:051][927]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3718.699 Y=770.584 Z=1585.047] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.04:201][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3718.686 Y=769.110 Z=1587.104] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.04:427][942]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3714.340 Y=775.380 Z=1582.221] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.04:603][949]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3712.378 Y=779.357 Z=1583.883] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.07:404][ 60]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.07:405][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.50.07:459][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.50.07:459][ 60]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.07:485][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.50.07:488][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.22-02.50.07:525][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.11.22-02.50.12:752][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.50.12:812][242]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.50.12:819][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.12:819][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.50.12:820][242]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:50:12 PM)
+[2019.11.22-02.50.12:820][242]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.50.12:850][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030211s)
+[2019.11.22-02.50.12:850][242]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.50.12:850][242]LogPlayLevel: PIE: World Init took: (0.000459s)
+[2019.11.22-02.50.12:850][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.030795s)
+[2019.11.22-02.50.12:870][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.11.22-02.50.12:872][242]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.50.12:896][242]LogInit: FAudioDevice initialized.
+[2019.11.22-02.50.12:926][242]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.50.12:929][242]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.50.12
+[2019.11.22-02.50.12:929][242]LogWorld: Bringing up level for play took: 0.002297
+[2019.11.22-02.50.12:943][242]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.475
+[2019.11.22-02.50.12:943][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.24:398][711]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3649.554 Y=1800.120 Z=1655.284] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.25:272][747]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3514.366 Y=2221.366 Z=1645.173] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.26:257][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3462.641 Y=2805.323 Z=1659.834] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.26:667][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3419.740 Y=2978.194 Z=1659.452] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.26:885][814]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3368.331 Y=3037.881 Z=1659.409] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.27:079][822]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3345.842 Y=3143.007 Z=1647.599] for [FirstPersonProjectile_C]
+[2019.11.22-02.50.29:682][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.29:682][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.50.29:738][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.50.29:738][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.50.29:764][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.50.29:766][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.11.22-02.50.29:784][927]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.11.22-02.50.31:765][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.50.40:113][267]Cmd: TRANSACTION UNDO
+[2019.11.22-02.50.40:113][267]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.22-02.50.40:163][267]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.50.42:256][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.50.47:830][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.50.49:469][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.50.52:965][678]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.11.22-02.50.54:358][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.50.59:561][877]Cmd: TRANSACTION UNDO
+[2019.11.22-02.50.59:561][877]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.50.59:614][877]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.00:496][904]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.00:496][904]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.00:576][904]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.01:355][924]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.01:355][924]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.01:440][924]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.02:149][944]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.02:149][944]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.02:227][944]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.03:154][971]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.03:154][971]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.03:230][971]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.05:751][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.51.08:646][132]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.08:646][132]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.51.11:477][215]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.11:477][215]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.51.22:405][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.51.34:365][934]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.34:365][934]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.34:417][934]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.34:588][938]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.34:588][938]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.34:607][938]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.34:783][943]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.34:783][943]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.34:804][943]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.35:010][944]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.35:011][944]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.51.35:037][944]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.35:167][945]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.35:167][945]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.51.35:188][945]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.35:315][949]Cmd: TRANSACTION UNDO
+[2019.11.22-02.51.35:315][949]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.22-02.51.35:367][949]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.51.41:546][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.51.41:636][142]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.51.41:644][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.51.41:644][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.51.41:644][142]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:51:41 PM)
+[2019.11.22-02.51.41:644][142]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.51.41:671][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026428s)
+[2019.11.22-02.51.41:671][142]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.51.41:672][142]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.11.22-02.51.41:672][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.027324s)
+[2019.11.22-02.51.41:695][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.22-02.51.41:705][142]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.51.41:732][142]LogInit: FAudioDevice initialized.
+[2019.11.22-02.51.41:763][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.51.41:765][142]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.51.41
+[2019.11.22-02.51.41:765][142]LogWorld: Bringing up level for play took: 0.002066
+[2019.11.22-02.51.41:779][142]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill -0.692
+[2019.11.22-02.51.41:779][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.52.16:430][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.52.16:430][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.52.16:485][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.52.16:485][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.52.16:514][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.52.16:516][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.22-02.52.16:552][580]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.11.22-02.54.14:920][582]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.11.22-02.54.15:031][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.22-02.54.15:550][599]Cmd: TRANSACTION UNDO
+[2019.11.22-02.54.15:550][599]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.11.22-02.54.16:624][630]Cmd: TRANSACTION UNDO
+[2019.11.22-02.54.16:624][630]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.54.16:715][630]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.54.18:206][678]Cmd: TRANSACTION UNDO
+[2019.11.22-02.54.18:206][678]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.22-02.54.18:297][678]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.54.26:071][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.54.27:056][981]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.54.27:063][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.54.27:063][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.54.27:063][981]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:54:27 PM)
+[2019.11.22-02.54.27:064][981]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.54.27:099][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035780s)
+[2019.11.22-02.54.27:100][981]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.54.27:100][981]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2019.11.22-02.54.27:100][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.036922s)
+[2019.11.22-02.54.27:124][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.11.22-02.54.27:126][981]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.54.27:152][981]LogInit: FAudioDevice initialized.
+[2019.11.22-02.54.27:179][981]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.54.27:182][981]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.54.27
+[2019.11.22-02.54.27:183][981]LogWorld: Bringing up level for play took: 0.002762
+[2019.11.22-02.54.27:197][981]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.721
+[2019.11.22-02.54.27:198][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.54.43:716][659]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-3552.899 Y=2247.208 Z=1693.938] for [FirstPersonProjectile_C]
+[2019.11.22-02.56.03:095][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.56.03:095][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.56.03:150][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.56.03:151][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.56.03:176][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.56.03:179][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.22-02.56.03:216][954]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.22-02.56.20:087][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.56.20:140][528]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.22-02.56.20:148][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.56.20:148][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.22-02.56.20:148][528]PIE: New page: PIE session: WAR_hill (Nov 21, 2019, 2:56:20 PM)
+[2019.11.22-02.56.20:148][528]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.11.22-02.56.20:181][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032703s)
+[2019.11.22-02.56.20:182][528]LogAIModule: Creating AISystem for world WAR_hill
+[2019.11.22-02.56.20:182][528]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.11.22-02.56.20:182][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.033599s)
+[2019.11.22-02.56.20:204][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.11.22-02.56.20:206][528]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.22-02.56.20:229][528]LogInit: FAudioDevice initialized.
+[2019.11.22-02.56.20:255][528]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.22-02.56.20:258][528]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.11.21-20.56.20
+[2019.11.22-02.56.20:258][528]LogWorld: Bringing up level for play took: 0.002206
+[2019.11.22-02.56.20:271][528]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill -0.209
+[2019.11.22-02.56.20:271][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.57.17:692][867]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.57.17:692][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.57.17:745][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.22-02.57.17:745][867]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.11.22-02.57.17:771][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.22-02.57.17:774][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.22-02.57.17:810][868]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.22-02.57.57:257][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.58.00:421][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.58.00:556][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.22-02.58.00:582][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.22-02.58.00:688][304]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.11.22-02.58.00:976][304]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillD3EAFC114D0E43B4E4F0ADBACE82D339.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.22-02.58.03:444][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.58.03:560][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.22-02.58.03:587][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.22-02.58.03:871][392]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill738455A04B504B5FD06AE3A5536F7786.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.11.22-02.58.06:071][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.22-02.58.06:179][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.22-02.58.06:223][472]LogSlate: Window 'WAR - Unreal Editor' being destroyed
+[2019.11.22-02.58.06:443][473]Cmd: QUIT_EDITOR
+[2019.11.22-02.58.07:287][473]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.22-02.58.07:310][473]LogExit: Preparing to exit.
+[2019.11.22-02.58.07:820][473]LogExit: Editor shut down
+[2019.11.22-02.58.07:820][473]LogExit: Transaction tracking system shut down
+[2019.11.22-02.58.08:114][473]LogExit: Object subsystem successfully closed.
+[2019.11.22-02.58.08:130][473]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.22-02.58.08:134][473]LogD3D11RHI: Shutdown
+[2019.11.22-02.58.08:134][473]LogD3D11RHI: CleanupD3DDevice
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.22-02.58.08:135][473]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.22-02.58.08:220][473]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (646)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module Voice (644)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.11.22-02.58.08:248][473]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.22-02.58.08:249][473]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.22-02.58.08:250][473]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.22-02.58.09:214][473]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.22-02.58.09:215][473]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.22-02.58.09:270][473]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.22-02.58.09:271][473]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.22-02.58.09:271][473]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.22-02.58.09:271][473]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.22-02.58.09:271][473]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.22-02.58.09:271][473]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.22-02.58.09:272][473]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.22-02.58.09:273][473]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.22-02.58.09:274][473]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.22-02.58.09:284][473]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.22-02.58.09:298][473]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.22-02.58.09:299][473]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.22-02.58.09:300][473]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.22-02.58.09:301][473]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.22-02.58.09:302][473]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.22-02.58.09:303][473]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.22-02.58.09:304][473]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.22-02.58.09:405][473]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.22-02.58.09:505][473]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.22-02.58.09:505][473]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.22-02.58.09:505][473]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.22-02.58.09:505][473]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.22-02.58.09:505][473]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.22-02.58.09:505][473]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.22-02.58.09:506][473]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.22-02.58.09:509][473]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.22-02.58.09:509][473]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.22-02.58.09:509][473]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.22-02.58.09:509][473]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.22-02.58.09:511][473]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.22-02.58.09:514][473]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.22-02.58.09:515][473]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.22-02.58.09:516][473]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.22-02.58.09:517][473]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.22-02.58.09:517][473]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.22-02.58.09:522][473]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.22-02.58.09:523][473]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.22-02.58.09:523][473]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.22-02.58.09:523][473]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.22-02.58.09:523][473]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.22-02.58.09:523][473]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.22-02.58.09:610][473]LogDerivedDataCache: Shutdown
+[2019.11.22-02.58.09:610][473]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.22-02.58.09:611][473]LogXGEController: Cleaning working directory: C:/Users/W207542133/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.22-02.58.09:612][473]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.22-02.58.09:613][473]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.22-02.58.09:616][473]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.22-02.58.09:616][473]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.22-02.58.09:616][473]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.22-02.58.09:616][473]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.22-02.58.09:616][473]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.22-02.58.09:618][473]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.22-02.58.09:618][473]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.22-02.58.09:621][473]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.22-02.58.09:621][473]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.22-02.58.09:649][473]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.22-02.58.09:649][473]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.22-02.58.09:650][473]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.22-02.58.09:650][473]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.22-02.58.09:652][473]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.22-02.58.09:652][473]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.22-02.58.09:682][473]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.22-02.58.09:682][473]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.22-02.58.09:682][473]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B50353595-4207-CA84-93B4-ABB45AC09CEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=805a15b74ddbdf5cdcdd428c26163e24%7C5f1b04a062b8411e828e76e0211ad98e%7C54291280-c780-47b3-9916-32c7c6938de3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.22-02.58.09:714][473]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.22-02.58.09:716][473]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.22-02.58.09:716][473]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.22-02.58.09:723][473]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.22-02.58.09:723][473]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.22-02.58.09:724][473]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.22-02.58.09:725][473]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.22-02.58.09:739][473]LogExit: Exiting.
+[2019.11.22-02.58.09:748][473]Log file closed, 11/21/19 20:58:09
