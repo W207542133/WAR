@@ -2089,3 +2089,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-02.13.20:610][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.12.11-02.13.20:650][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
 [2019.12.11-02.13.21:915][213]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillE91820F4477BEDB9D91C77961A69F5A6.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.12.11-02.13.46:507][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.13.54:177][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.14.00:476][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.14.43:420][520]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Steam_Lit2)
+[2019.12.11-02.15.01:752][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.15.01:911][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-02.15.01:950][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.11-02.15.03:190][856]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill1CB31E42434F44AEF94073B70B3E1502.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
