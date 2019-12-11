@@ -1534,3 +1534,351 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-01.38.52:078][950]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
 [2019.12.11-01.38.52:080][950]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
 [2019.12.11-01.38.53:179][950]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillCEBAD69444D9402B205D149D7261D3C5.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.12.11-01.39.44:493][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.40.20:694][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.40.20:799][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D'
+[2019.12.11-01.40.20:799][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D' while loading NULL.
+[2019.12.11-01.40.20:799][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N'
+[2019.12.11-01.40.20:800][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N' while loading NULL.
+[2019.12.11-01.40.20:800][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D'
+[2019.12.11-01.40.20:800][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D' while loading NULL.
+[2019.12.11-01.40.20:800][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N'
+[2019.12.11-01.40.20:801][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N' while loading NULL.
+[2019.12.11-01.40.20:801][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D'
+[2019.12.11-01.40.20:801][ 96]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D.T_Exo_Cart_D Referenced by MaterialExpressionTextureSample_0
+[2019.12.11-01.40.20:801][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_D' while loading NULL.
+[2019.12.11-01.40.20:801][ 96]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N'
+[2019.12.11-01.40.20:802][ 96]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N.T_Exo_Cart_N Referenced by MaterialExpressionTextureSample_1
+[2019.12.11-01.40.20:802][ 96]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Textures/T_Exo_Cart_N' while loading NULL.
+[2019.12.11-01.40.20:804][ 96]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.20:805][ 96]LogMaterial: Warning: C:\Users\W207542133\Desktop\WAR\WAR\Content\Exo_Deco01\Materials\M_Exo_Cart.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.20:805][ 96]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.21:006][ 96]LogAssetEditorManager: Opening Asset editor for Material /Game/Exo_Deco01/Materials/M_Exo_Cart.M_Exo_Cart
+[2019.12.11-01.40.21:009][ 96]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.21:009][ 96]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.21:009][ 96]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.21:073][ 96]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.21:074][ 96]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.21:074][ 96]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.21:077][ 96]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.21:078][ 96]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.21:078][ 96]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.21:111][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-01.40.21:113][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.11-01.40.21:150][ 96]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.30:706][347]LogTexture: Display: Building textures: T_Exo_Cart_D (AutoDXT, 512X512)
+[2019.12.11-01.40.31:579][435]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.31:579][435]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.31:580][435]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.31:582][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.11-01.40.31:618][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-01.40.31:621][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.11-01.40.31:625][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.11-01.40.36:137][576]LogTexture: Display: Building textures: T_Exo_Cart_N (AutoDXT, 512X512)
+[2019.12.11-01.40.36:895][648]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.36:895][648]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.36:895][648]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.36:899][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.12.11-01.40.36:930][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.12.11-01.40.36:932][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.12.11-01.40.36:934][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.11-01.40.36:940][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.12.11-01.40.42:992][967]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.42:993][967]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.42:993][967]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.43:001][967]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.11-01.40.45:628][ 83]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.45:628][ 83]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.45:628][ 83]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.45:635][ 83]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.12.11-01.40.47:420][105]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.47:422][105]LogMaterial: Warning: /Engine/Transient.M_Exo_Cart (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.12.11-01.40.47:422][105]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.12.11-01.40.50:505][250]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.50:529][250]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.12.11-01.40.52:518][275]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.58:817][354]LogMaterialEditor: Saving and Compiling material M_Exo_Cart
+[2019.12.11-01.40.59:299][354]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.59:391][354]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.59:428][354]LogMaterial: Display: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2019.12.11-01.40.59:510][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.11-01.40.59:521][354]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-01.41.24:016][354]TextureStreamingBuild: Display: Compiling optional shaders took 24.505 seconds.
+[2019.12.11-01.41.24:046][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.11-01.41.24:138][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco01/Materials/M_Exo_Cart" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco01/Materials/M_Exo_Cart.uasset" SILENT=true
+[2019.12.11-01.41.24:168][354]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/M_Exo_CartAE7EE9E74BE09F070C91F88F73BEA4FA.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco01/Materials/M_Exo_Cart.uasset'
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Base pass shader: 112 instructions
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Base pass shader with Surface Lightmap: 140 instructions
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Texture samplers: 5/16
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.12.11-01.41.24:190][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.12.11-01.41.31:498][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.41.31:583][446]LogMaterialEditor: Saving and Compiling material M_Exo_Cart
+[2019.12.11-01.41.31:596][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Exo_Deco01/Materials/M_Exo_Cart" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco01/Materials/M_Exo_Cart.uasset" SILENT=true
+[2019.12.11-01.41.31:614][446]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/M_Exo_CartF5275317458D72E3FF81068E3F04D64E.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/Exo_Deco01/Materials/M_Exo_Cart.uasset'
+[2019.12.11-01.41.33:862][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.41.37:028][505]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.41.37:028][505]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.41.37:029][505]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.41.37:029][505]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.41.37:030][505]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.41.37:030][505]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart.M_Exo_Cart Referenced by SM_Exo_Cart_Intact
+[2019.12.11-01.41.37:030][505]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.41.37:042][505]LogStaticMesh: Building static mesh SM_Exo_Cart_Intact...
+[2019.12.11-01.41.37:177][505]LogStaticMesh: Built static mesh [0.14s] /Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact.SM_Exo_Cart_Intact
+[2019.12.11-01.41.37:207][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-01.41.37:213][505]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact.SM_Exo_Cart_Intact
+[2019.12.11-01.41.51:092][845]LogStaticMesh: Building static mesh SM_Exo_Cart_Intact...
+[2019.12.11-01.41.51:105][845]LogStaticMesh: Built static mesh [0.01s] /Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact.SM_Exo_Cart_Intact
+[2019.12.11-01.41.55:414][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.41.55:505][891]LogSlate: Window 'SM_Exo_Cart_Intact' being destroyed
+[2019.12.11-01.41.55:597][891]LogSlate: Window 'SM_Exo_Cart_Intact' being destroyed
+[2019.12.11-01.41.58:247][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.42.00:826][939]LogActorFactory: Actor Factory created SM_Exo_Cart_Intact
+[2019.12.11-01.42.02:111][957]LogActorFactory: Actor Factory created SM_Exo_Cart_Intact
+[2019.12.11-01.42.03:311][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.42.03:314][971]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.42.03:315][971]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.42.03:315][971]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.42.03:315][971]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.42.03:317][971]LogLinker: Warning: Can't find file '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart'
+[2019.12.11-01.42.03:317][971]LoadErrors: Failed to load /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart.M_Exo_Cart Referenced by SM_Exo_Cart_Damaged
+[2019.12.11-01.42.03:318][971]LogLinker: Warning: Can't find file for asset '/Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/Materials/M_Exo_Cart' while loading NULL.
+[2019.12.11-01.42.03:343][971]LogStaticMesh: Building static mesh SM_Exo_Cart_Damaged...
+[2019.12.11-01.42.04:098][971]LogStaticMesh: Built static mesh [0.75s] /Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Damaged.SM_Exo_Cart_Damaged
+[2019.12.11-01.42.04:160][971]LogActorFactory: Actor Factory created SM_Exo_Cart_Damaged
+[2019.12.11-01.42.06:351][215]LogActorFactory: Actor Factory created SM_Exo_Cart_Damaged
+[2019.12.11-01.42.23:806][516]Cmd: DELETE
+[2019.12.11-01.42.23:806][516]Cmd: ACTOR DELETE
+[2019.12.11-01.42.23:820][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.11-01.42.23:852][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.11-01.42.23:853][516]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.12.11-01.42.24:861][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Cart_Damaged)
+[2019.12.11-01.42.24:995][538]Cmd: DELETE
+[2019.12.11-01.42.24:995][538]Cmd: ACTOR DELETE
+[2019.12.11-01.42.25:007][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.11-01.42.25:031][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.12.11-01.42.25:031][538]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.12.11-01.42.26:701][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Cart_Intact)
+[2019.12.11-01.42.27:904][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.42.35:778][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.42.41:544][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Exo_Cart_Intact)
+[2019.12.11-01.42.54:671][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel7)
+[2019.12.11-01.43.07:653][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.43.12:623][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.43.33:078][904]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (spock132)
+[2019.12.11-01.43.40:141][ 49]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush78)
+[2019.12.11-01.43.52:887][311]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.11-01.43.54:954][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (rim34)
+[2019.12.11-01.44.03:534][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-01.44.10:107][480]LogSlate: Window 'Message' being destroyed
+[2019.12.11-01.44.10:400][480]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2019.12.11-01.44.10:448][480]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2019.12.11-01.44.10:483][480]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2019.12.11-01.44.10:529][480]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2019.12.11-01.44.10:543][480]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2019.12.11-01.44.10:598][480]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2019.12.11-01.44.10:632][480]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2019.12.11-01.44.10:680][480]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2019.12.11-01.44.10:692][480]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2019.12.11-01.44.10:743][480]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2019.12.11-01.44.10:779][480]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2019.12.11-01.44.10:827][480]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2019.12.11-01.44.10:837][480]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2019.12.11-01.44.10:892][480]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2019.12.11-01.44.10:934][480]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2019.12.11-01.44.10:984][480]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2019.12.11-01.44.10:995][480]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2019.12.11-01.44.11:092][480]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2019.12.11-01.44.11:102][480]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2019.12.11-01.44.11:161][480]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2019.12.11-01.44.11:224][480]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.12.11-01.44.11:285][480]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2019.12.11-01.44.11:363][480]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2019.12.11-01.44.11:364][480]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.12.11-01.44.11:446][480]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.12.11-01.44.11:457][480]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2019.12.11-01.44.11:533][480]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2019.12.11-01.44.11:601][480]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2019.12.11-01.44.11:677][480]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2019.12.11-01.44.11:760][480]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.12.11-01.44.11:772][480]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2019.12.11-01.44.11:929][480]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2019.12.11-01.44.11:940][480]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2019.12.11-01.44.12:024][480]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2019.12.11-01.44.12:100][480]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2019.12.11-01.44.12:195][480]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2019.12.11-01.44.12:208][480]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2019.12.11-01.44.12:303][480]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.12.11-01.44.12:379][480]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.12.11-01.44.12:468][480]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.12.11-01.44.12:478][480]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2019.12.11-01.44.12:650][480]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.12.11-01.44.12:666][480]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2019.12.11-01.44.12:759][480]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2019.12.11-01.44.12:841][480]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2019.12.11-01.44.12:933][480]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2019.12.11-01.44.13:022][480]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2019.12.11-01.44.13:035][480]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2019.12.11-01.44.13:135][480]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2019.12.11-01.44.13:220][480]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2019.12.11-01.44.13:316][480]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2019.12.11-01.44.13:328][480]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2019.12.11-01.44.13:425][480]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2019.12.11-01.44.13:511][480]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2019.12.11-01.44.13:617][480]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2019.12.11-01.44.13:629][480]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2019.12.11-01.44.13:818][480]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2019.12.11-01.44.13:831][480]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2019.12.11-01.44.13:934][480]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2019.12.11-01.44.14:017][480]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2019.12.11-01.44.14:111][480]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2019.12.11-01.44.14:134][480]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2019.12.11-01.44.14:238][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.14:325][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.14:427][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.14:440][480]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2019.12.11-01.44.14:635][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.14:647][480]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2019.12.11-01.44.14:854][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.14:871][480]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2019.12.11-01.44.14:986][480]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2019.12.11-01.44.15:078][480]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2019.12.11-01.44.15:185][480]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2019.12.11-01.44.15:199][480]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2019.12.11-01.44.15:422][480]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2019.12.11-01.44.15:439][480]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2019.12.11-01.44.15:561][480]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2019.12.11-01.44.15:663][480]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2019.12.11-01.44.15:773][480]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2019.12.11-01.44.15:789][480]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2019.12.11-01.44.16:014][480]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2019.12.11-01.44.16:028][480]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2019.12.11-01.44.16:150][480]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2019.12.11-01.44.16:262][480]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2019.12.11-01.44.16:381][480]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2019.12.11-01.44.16:394][480]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2019.12.11-01.44.16:617][480]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2019.12.11-01.44.16:630][480]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2019.12.11-01.44.16:753][480]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2019.12.11-01.44.16:869][480]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2019.12.11-01.44.16:988][480]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2019.12.11-01.44.17:003][480]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2019.12.11-01.44.17:250][480]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2019.12.11-01.44.17:267][480]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2019.12.11-01.44.17:399][480]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2019.12.11-01.44.17:518][480]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2019.12.11-01.44.17:643][480]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2019.12.11-01.44.17:658][480]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2019.12.11-01.44.17:898][480]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2019.12.11-01.44.17:911][480]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2019.12.11-01.44.18:036][480]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.12.11-01.44.18:173][480]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.12.11-01.44.18:299][480]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.12.11-01.44.18:314][480]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2019.12.11-01.44.18:569][480]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2019.12.11-01.44.18:584][480]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2019.12.11-01.44.18:838][480]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.12.11-01.44.18:851][480]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2019.12.11-01.44.19:099][480]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2019.12.11-01.44.19:112][480]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2019.12.11-01.44.19:262][480]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.12.11-01.44.19:386][480]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.12.11-01.44.19:521][480]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.12.11-01.44.19:538][480]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2019.12.11-01.44.19:825][480]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.12.11-01.44.19:836][480]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2019.12.11-01.44.19:977][480]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2019.12.11-01.44.20:100][480]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2019.12.11-01.44.20:240][480]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2019.12.11-01.44.20:254][480]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2019.12.11-01.44.20:523][480]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2019.12.11-01.44.20:537][480]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2019.12.11-01.44.20:796][480]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2019.12.11-01.44.20:808][480]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2019.12.11-01.44.20:953][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.21:084][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.21:226][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.21:244][480]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2019.12.11-01.44.21:513][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.21:526][480]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2019.12.11-01.44.21:801][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.21:813][480]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2019.12.11-01.44.22:081][480]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2019.12.11-01.44.22:099][480]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2019.12.11-01.44.22:247][480]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.12.11-01.44.22:380][480]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.12.11-01.44.22:521][480]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.12.11-01.44.22:535][480]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2019.12.11-01.44.22:827][480]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.12.11-01.44.22:844][480]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2019.12.11-01.44.23:001][480]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2019.12.11-01.44.23:146][480]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2019.12.11-01.44.23:301][480]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2019.12.11-01.44.23:318][480]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2019.12.11-01.44.23:612][480]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2019.12.11-01.44.23:627][480]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2019.12.11-01.44.23:930][480]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2019.12.11-01.44.23:942][480]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2019.12.11-01.44.24:116][480]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2019.12.11-01.44.24:263][480]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2019.12.11-01.44.24:434][480]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2019.12.11-01.44.24:447][480]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2019.12.11-01.44.24:761][480]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2019.12.11-01.44.24:777][480]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2019.12.11-01.44.24:942][480]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2019.12.11-01.44.25:099][480]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2019.12.11-01.44.25:356][480]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2019.12.11-01.44.25:370][480]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2019.12.11-01.44.25:709][480]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2019.12.11-01.44.25:724][480]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2019.12.11-01.44.25:911][480]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2019.12.11-01.44.26:084][480]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2019.12.11-01.44.26:287][480]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2019.12.11-01.44.26:303][480]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2019.12.11-01.44.26:699][480]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2019.12.11-01.44.26:716][480]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2019.12.11-01.44.26:930][480]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2019.12.11-01.44.27:140][480]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2019.12.11-01.44.27:362][480]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2019.12.11-01.44.27:380][480]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2019.12.11-01.44.27:814][480]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2019.12.11-01.44.59:678][481]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-01.44.59:838][481]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.12.11-01.45.00:000][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.45.02:844][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rim42)
+[2019.12.11-01.45.04:913][530]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (spock172)
+[2019.12.11-01.45.05:553][536]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (spock183)
+[2019.12.11-01.45.06:170][542]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (barrel24)
+[2019.12.11-01.45.12:718][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.45.23:437][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.45.26:791][751]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.789 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.11-01.45.28:965][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (spock162)
+[2019.12.11-01.45.31:374][814]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.11-01.45.32:427][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (barrel24)
+[2019.12.11-01.45.34:092][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (barrel22)
+[2019.12.11-01.45.40:240][924]Cmd: TRANSACTION UNDO
+[2019.12.11-01.45.40:240][924]LogEditorTransaction: Undo Move Actors
+[2019.12.11-01.46.03:690][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.46.13:824][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.46.20:777][370]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.12.11-01.46.22:811][389]Cmd: DELETE
+[2019.12.11-01.46.22:811][389]Cmd: ACTOR DELETE
+[2019.12.11-01.46.22:867][389]LogEditorActor: Deleted Actor: Landscape
+[2019.12.11-01.46.23:006][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.12.11-01.46.23:007][389]LogEditorActor: Deleted 1 Actors (0.195 secs)
+[2019.12.11-01.47.23:303][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.47.29:390][647]LogStaticMesh: Building static mesh SM_Exo_Decos_Door03...
+[2019.12.11-01.47.29:425][647]LogStaticMesh: Built static mesh [0.04s] /Game/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.SM_Exo_Decos_Door03
+[2019.12.11-01.47.29:481][647]LogActorFactory: Actor Factory created SM_Exo_Decos_Door03
+[2019.12.11-01.47.31:515][677]LogActorFactory: Actor Factory created SM_Exo_Decos_Door03
+[2019.12.11-01.47.33:207][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.47.43:244][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.49.30:706][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.49.30:814][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-01.49.30:850][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.12.11-01.49.31:079][845]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2019.12.11-01.49.31:081][845]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2019.12.11-01.49.32:927][845]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill6F5D04C14F14C358A9E9D09D661D4D00.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
