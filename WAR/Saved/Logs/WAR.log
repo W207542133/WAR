@@ -1882,3 +1882,210 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-01.49.31:079][845]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
 [2019.12.11-01.49.31:081][845]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
 [2019.12.11-01.49.32:927][845]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill6F5D04C14F14C358A9E9D09D661D4D00.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.12.11-01.51.29:689][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.52.56:537][152]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2019.12.11-01.53.18:829][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.53.18:966][655]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-01.53.19:127][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-01.53.19:142][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-01.53.19:461][655]PIE: New page: PIE session: WAR_hill (Dec 10, 2019, 1:53:19 PM)
+[2019.12.11-01.53.19:586][655]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.12.11-01.53.19:732][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144195s)
+[2019.12.11-01.53.19:732][655]LogAIModule: Creating AISystem for world WAR_hill
+[2019.12.11-01.53.19:767][655]LogPlayLevel: PIE: World Init took: (0.035403s)
+[2019.12.11-01.53.19:767][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.181107s)
+[2019.12.11-01.53.19:831][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.11-01.53.19:858][655]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-01.53.19:926][655]LogInit: FAudioDevice initialized.
+[2019.12.11-01.53.23:159][655]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.11-01.53.23:538][655]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.12.10-19.53.23
+[2019.12.11-01.53.23:642][655]LogWorld: Bringing up level for play took: 0.142326
+[2019.12.11-01.53.24:305][655]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0073 seconds. Added 20 classes and 0 folders.
+[2019.12.11-01.53.25:195][655]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 5.197
+[2019.12.11-01.53.25:196][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-01.53.58:966][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-01.53.59:034][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-01.53.59:253][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-01.53.59:331][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-01.53.59:652][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-01.53.59:977][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.11-01.54.00:051][373]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.11-01.54.08:869][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.54.32:202][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.54.32:359][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-01.54.32:408][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.11-01.54.32:741][993]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.12.11-01.54.33:811][993]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillB73106A147F36C03464D42A28BCD71B4.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.12.11-01.54.54:724][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.55.05:527][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.55.16:648][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.55.29:346][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.56.39:456][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.56.47:126][809]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.12.11-01.56.48:592][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.57.04:533][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.57.10:766][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.57.57:933][306]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2019.12.11-01.58.31:338][ 85]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-01.58.32:477][106]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2019.12.11-01.58.35:468][169]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume4)
+[2019.12.11-01.58.37:830][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.58.48:016][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.12.11-01.58.57:879][690]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume3)
+[2019.12.11-01.59.12:095][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-01.59.12:236][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-01.59.12:264][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.11-01.59.13:443][989]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill79CB386E406E85800F452191A693B15A.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
+[2019.12.11-02.00.04:487][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster14)
+[2019.12.11-02.00.05:322][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster7)
+[2019.12.11-02.00.07:906][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster8)
+[2019.12.11-02.00.10:410][283]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-02.00.11:359][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster2)
+[2019.12.11-02.00.14:396][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster12)
+[2019.12.11-02.00.18:443][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster3)
+[2019.12.11-02.00.20:994][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster9)
+[2019.12.11-02.00.24:146][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster4)
+[2019.12.11-02.00.26:549][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster6)
+[2019.12.11-02.00.29:002][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster5)
+[2019.12.11-02.00.31:298][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster4)
+[2019.12.11-02.00.33:722][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.12.11-02.00.34:592][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster6)
+[2019.12.11-02.00.36:890][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.00.38:623][868]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-02.00.38:633][868]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.00.38:634][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-02.00.38:634][868]PIE: New page: PIE session: WAR_hill (Dec 10, 2019, 2:00:38 PM)
+[2019.12.11-02.00.38:634][868]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.12.11-02.00.38:721][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087010s)
+[2019.12.11-02.00.38:721][868]LogAIModule: Creating AISystem for world WAR_hill
+[2019.12.11-02.00.38:722][868]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2019.12.11-02.00.38:722][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.088039s)
+[2019.12.11-02.00.38:748][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.11-02.00.38:750][868]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-02.00.38:774][868]LogInit: FAudioDevice initialized.
+[2019.12.11-02.00.38:800][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.11-02.00.38:812][868]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.12.10-20.00.38
+[2019.12.11-02.00.38:815][868]LogWorld: Bringing up level for play took: 0.013746
+[2019.12.11-02.00.38:829][868]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.817
+[2019.12.11-02.00.38:829][868]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.00.52:800][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.00.52:800][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.00.52:886][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-02.00.52:886][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.00.52:917][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.00.52:924][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.12.11-02.00.52:958][175]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.11-02.01.06:884][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.12.11-02.01.12:945][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.01.26:344][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.01.39:348][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.02.24:342][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel25)
+[2019.12.11-02.02.27:653][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel26)
+[2019.12.11-02.02.32:030][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel27)
+[2019.12.11-02.02.35:487][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel28)
+[2019.12.11-02.02.42:888][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel21)
+[2019.12.11-02.02.46:441][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel22)
+[2019.12.11-02.02.49:212][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel23)
+[2019.12.11-02.02.53:047][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (barrel24)
+[2019.12.11-02.03.38:425][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (spock195)
+[2019.12.11-02.03.42:325][455]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-02.03.44:963][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.03.58:652][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster7)
+[2019.12.11-02.04.01:559][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster8)
+[2019.12.11-02.04.04:017][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster2)
+[2019.12.11-02.04.07:598][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster4)
+[2019.12.11-02.04.10:889][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster6)
+[2019.12.11-02.04.15:288][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pine_Low_Cluster3)
+[2019.12.11-02.04.50:467][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenBarrel_Intact16)
+[2019.12.11-02.04.51:908][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenBarrel_Intact16)
+[2019.12.11-02.04.59:161][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenBarrel_Intact16)
+[2019.12.11-02.05.03:211][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenBarrel_Intact12)
+[2019.12.11-02.05.05:782][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodenBarrel_Intact12)
+[2019.12.11-02.05.17:783][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.05.17:832][470]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-02.05.17:842][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.05.17:842][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-02.05.17:842][470]PIE: New page: PIE session: WAR_hill (Dec 10, 2019, 2:05:17 PM)
+[2019.12.11-02.05.17:842][470]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.12.11-02.05.17:934][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091642s)
+[2019.12.11-02.05.17:935][470]LogAIModule: Creating AISystem for world WAR_hill
+[2019.12.11-02.05.17:950][470]LogPlayLevel: PIE: World Init took: (0.015961s)
+[2019.12.11-02.05.17:950][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.107873s)
+[2019.12.11-02.05.17:979][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.11-02.05.17:981][470]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-02.05.18:011][470]LogInit: FAudioDevice initialized.
+[2019.12.11-02.05.18:039][470]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.11-02.05.18:054][470]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.12.10-20.05.18
+[2019.12.11-02.05.18:055][470]LogWorld: Bringing up level for play took: 0.015044
+[2019.12.11-02.05.18:070][470]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.051
+[2019.12.11-02.05.18:071][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.05.48:822][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.05.48:822][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.05.48:889][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-02.05.48:889][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.05.48:925][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.05.48:931][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.11-02.05.48:953][193]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.11-02.05.56:195][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.06.05:628][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.06.20:934][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.06.37:877][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.06.37:988][ 92]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-02.06.37:997][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.06.37:997][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-02.06.37:997][ 92]PIE: New page: PIE session: WAR_hill (Dec 10, 2019, 2:06:37 PM)
+[2019.12.11-02.06.37:998][ 92]LogPlayLevel: Creating play world package: /Game/WAR/UEDPIE_0_WAR_hill
+[2019.12.11-02.06.38:086][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088262s)
+[2019.12.11-02.06.38:087][ 92]LogAIModule: Creating AISystem for world WAR_hill
+[2019.12.11-02.06.38:087][ 92]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.12.11-02.06.38:087][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WAR/WAR_hill.WAR_hill to /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill (0.089212s)
+[2019.12.11-02.06.38:114][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.12.11-02.06.38:122][ 92]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-02.06.38:146][ 92]LogInit: FAudioDevice initialized.
+[2019.12.11-02.06.38:173][ 92]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.11-02.06.38:188][ 92]LogWorld: Bringing World /Game/WAR/UEDPIE_0_WAR_hill.WAR_hill up for play (max tick rate 0) at 2019.12.10-20.06.38
+[2019.12.11-02.06.38:190][ 92]LogWorld: Bringing up level for play took: 0.016350
+[2019.12.11-02.06.38:210][ 92]PIE: Play in editor start time for /Game/WAR/UEDPIE_0_WAR_hill 0.189
+[2019.12.11-02.06.38:211][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.07.04:357][704]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.07.04:357][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.07.04:427][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-02.07.04:427][704]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel' has LevelScriptBlueprint '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill' with GeneratedClass '/Game/WAR/WAR_hill.WAR_hill_C' with ClassGeneratedBy '/Game/WAR/WAR_hill.WAR_hill:PersistentLevel.WAR_hill'
+[2019.12.11-02.07.04:461][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-02.07.04:466][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.12.11-02.07.04:507][705]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-02.09.04:017][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-02.09.08:339][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.09.33:291][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.10.07:875][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.10.29:073][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.10.44:842][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-02.11.00:815][997]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-02.11.02:531][ 24]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.11-02.11.03:313][ 34]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2019.12.11-02.11.04:267][ 50]LogEditorViewport: Clicking on Actor (context menu): TriggerBox (TriggerBox)
+[2019.12.11-02.11.04:433][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.11-02.11.15:481][229]LogSlate: Window 'Select Path' being destroyed
+[2019.12.11-02.11.15:585][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.12.11-02.11.15:615][229]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/WAR/TriggerBox_Blueprint.TriggerBox_Blueprint
+[2019.12.11-02.11.16:229][229]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 121 classes and 0 folders.
+[2019.12.11-02.12.50:364][696]BlueprintLog: New page: Compile TriggerBox_Blueprint
+[2019.12.11-02.12.50:673][696]LogUObjectHash: Compacting FUObjectHashTables data took  10.98ms
+[2019.12.11-02.12.51:086][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/TriggerBox_Blueprint" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/TriggerBox_Blueprint.uasset" SILENT=true
+[2019.12.11-02.12.51:110][702]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/TriggerBox_BlueprintBB25F04B43BD454EC5708EBDBC37235D.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/TriggerBox_Blueprint.uasset'
+[2019.12.11-02.12.52:680][731]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2019.12.11-02.12.52:738][731]LogSlate: Window 'TriggerBox_Blueprint' being destroyed
+[2019.12.11-02.13.17:797][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.12.11-02.13.17:798][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.12.11-02.13.18:060][187]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.12.11-02.13.19:196][187]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hill_Auto7282A305344B40E275CC4ACA51718AB21.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/WAR/WAR_hill_Auto7.umap'
+[2019.12.11-02.13.19:211][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WAR/WAR_hill' took 1.443
+[2019.12.11-02.13.19:211][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.443
+[2019.12.11-02.13.19:216][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact] ([1] browsable assets)...
+[2019.12.11-02.13.19:251][187]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact.SM_Exo_Cart_Intact]
+[2019.12.11-02.13.19:251][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact]
+[2019.12.11-02.13.19:288][187]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/SM_Exo_Cart_Intact_Auto74B26BACF45CCD238E7851581C46CAEB5.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/Autosaves/Game/Exo_Deco01/StaticMesh/SM_Exo_Cart_Intact_Auto7.uasset'
+[2019.12.11-02.13.19:302][187]LogFileHelpers: Auto-saving content packages took 0.085
+[2019.12.11-02.13.20:610][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WAR/WAR_hill" FILE="../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.11-02.13.20:650][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.12.11-02.13.21:915][213]LogSavePackage: Moving '../../../../Users/W207542133/Desktop/WAR/WAR/Saved/WAR_hillE91820F4477BEDB9D91C77961A69F5A6.tmp' to '../../../../Users/W207542133/Desktop/WAR/WAR/Content/WAR/WAR_hill.umap'
